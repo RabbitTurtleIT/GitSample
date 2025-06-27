@@ -2,4 +2,7 @@
 깃 연습
 
 6월 26일 23:11 - 종수
-dffdfd
+
+hello
+world
+hi
