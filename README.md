@@ -2,9 +2,4 @@
 깃 연습
 
 6월 26일 23:11 - 종수
-
-hello
-hi
-heejin
-world
-hihifadsfasdf
+6월 27일
